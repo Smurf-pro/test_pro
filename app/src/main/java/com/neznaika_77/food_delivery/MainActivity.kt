@@ -117,3 +117,4 @@ private fun getImageId(imageArrayId:Int):IntArray {
         return ids
     }
 }
+//блаблабла это закоменченные букавы
